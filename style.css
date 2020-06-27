@@ -185,8 +185,10 @@ img:hover {
 
 @media only screen and (max-width: 500px) {
     body {
-        margin: 8px 12px 8px 8px;
-        align-content: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        /* align-content: center; */
         height: auto;
     }
 
@@ -221,6 +223,7 @@ img:hover {
 
     h1 {
         font-size: 40px;
+
     }
 
     h3 {

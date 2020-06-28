@@ -70,7 +70,6 @@ p {
     margin: 45px;
     letter-spacing: 0.5px;
     line-height: 22px;
-    text-align: justify;
     font-size: 17px;
 }
 
@@ -224,28 +223,35 @@ img:hover {
 
     h1 {
         font-size: 40px;
-
+        margin-left: 30px;
     }
 
     h3 {
         font-size: 23px;
         max-width: 85%;
+        margin-left: 30px;
+    }
+
+    .before-footer {
+        padding: 0;
     }
 
     h5 {
-        font-size: 14px;
+        font-size: 15px;
         max-width: 70%;
     }
 
     h4 {
         font-size: 16px;
         max-width: 85%;
+        margin-left: 30px;
     }
 
     p {
         max-width: 80%;
         font-size: 15px;
         line-height: 18px;
+        margin-left: 30px;
     }
 
     ol {
